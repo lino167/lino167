@@ -35,7 +35,6 @@ Com uma sólida trajetória na área industrial e mecânica, hoje aplico a mesma
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
     <img src="https://img.shields.io/badge/Tkinter-2C5E93?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
   </p>
 - **Links:**
