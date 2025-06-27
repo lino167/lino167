@@ -1,49 +1,86 @@
-# Olá, eu sou o Lino! 👋
+# Zacarias Lino Ramos Filho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+### Desenvolvedor Python | Back-End & Automação | Blumenau, Brasil
 
 <br>
 
-Sou um desenvolvedor Python apaixonado por transformar problemas complexos em soluções de software eficientes e práticas. Minha experiência vai desde a criação de **bots de automação e aplicações de desktop** até a **extração e análise de dados da web**.
-
-Tenho um foco especial em construir ferramentas de ponta a ponta que realmente otimizam processos, seja para um técnico em campo ou para análise de dados estratégicos.
+Com uma sólida trajetória na área industrial e mecânica, hoje aplico a mesma disciplina e foco na resolução de problemas para desenvolver soluções de software robustas e eficientes. Minha paixão é transformar processos complexos em automações inteligentes, com experiência prática na criação de bots, integração com bancos de dados e no deploy de aplicações para operação contínua.
 
 <br>
 
-### 💡 O que eu construo
+---
 
-- 🤖 **Bots e Automações:** Desenvolvo bots no Telegram para automatizar tarefas e fluxos de trabalho, com integrações a bancos de dados e geração de relatórios.
-- ⚙️ **Aplicações com Banco de Dados:** Crio sistemas com integração a diferentes bancos de dados, desde o moderno **Supabase (PostgreSQL)** na nuvem em ambientes corporativos.
-- 📊 **Ferramentas de Dados:** Construo soluções de Web Scraping com **Selenium** e **BeautifulSoup** para capturar dados dinâmicos e utilizo **Pandas** para estruturá-los e analisá-los.
-- 📄 **Sistemas com Interface:** Tenho experiência tanto com interfaces conversacionais (Bots) quanto com interfaces gráficas de desktop (**Tkinter**).
+### 🚀 Projetos Principais
+
+#### 🤖 **Kraflo Bot - Gestor de Ordens de Serviço**
+- Bot completo para Telegram, **implantado em ambiente de nuvem para operação 24/7**. Utiliza Supabase como backend, gerencia conversas complexas e gera relatórios dinâmicos em PDF para otimizar o trabalho de equipes de campo.
+- **Tecnologias:**
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+    <img src="https://img.shields.io/badge/Cloud%20Hosting-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white" alt="Cloud" />
+  </p>
+- **Links:**
+  <p>
+    <a href="https://github.com/lino167/kraflo-bot" target="_blank"><img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"></a>
+    <a href="https://t.me/krafloBot" target="_blank"><img src="https://img.shields.io/badge/Testar%20Ao%20Vivo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Testar no Telegram"></a>
+  </p>
+
+---
+
+#### 🛠️ **Ferramentas de Automação & Análise de Dados**
+- Suíte de ferramentas que inclui um monitor de web scraping com **Selenium** para extração de dados de sites dinâmicos, e uma aplicação desktop com interface gráfica em **Tkinter** para controle de processos com integração a banco de dados **Oracle**.
+- **Tecnologias:**
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+    <img src="https://img.shields.io/badge/Tkinter-2C5E93?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
+  </p>
+- **Links:**
+  <p>
+     <a href="https://github.com/lino167/Dropping-Odds-Monitor" target="_blank"><img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"></a>
+  </p>
+<br>
+
+---
+
+### 💻 Minha Stack de Tecnologias
+
+<table>
+  <tr>
+    <td align="center"><strong>Backend & Cloud</strong></td>
+    <td align="center"><strong>Bancos de Dados</strong></td>
+    <td align="center"><strong>Dados & Automação</strong></td>
+    <td align="center"><strong>Ferramentas</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Python, Supabase, Cloud Hosting</td>
+    <td align="center">PostgreSQL, SQL, SQLite</td>
+    <td align="center">Selenium, BeautifulSoup, Pandas, FPDF</td>
+    <td align="center">Git, GitHub, venv, VS Code</td>
+  </tr>
+</table>
+
+---
+
+### 🌱 Educação & Aprendizado
+
+- **Formação Desenvolvedor Python** | OneBitCode (Em andamento)
+- **Certificado: Python I - Introdução ao Python** | [cite_start]OneBitCode (24/06/2025) [cite: 18]
 
 <br>
 
-### 🛠️ Minha Stack de Tecnologias
+---
 
-| Backend & APIs | Bancos de Dados | Frontend & UI | Dados & Automação | Ferramentas |
-| :--- | :--- | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Tkinter | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | | | BeautifulSoup | ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| | | | FPDF | |
+### 📫 Contato
 
-<br>
-
-### 🚀 Meus Projetos em Destaque
-
-
-1.  **[Kraflo Bot - Gestão de Ordens de Serviço](https://github.com/lino167/kraflo-bot)**
-    - Um bot completo no Telegram que permite a gestão de Ordens de Serviço em campo. O projeto utiliza **Supabase** como backend, gerencia conversas complexas e gera **relatórios em PDF** sob demanda.
-
-2.  **[Dropping Monitor de Odds](https://github.com/lino167/Dropping-Odds-Monitor)**
-    - Ferramentas de automação que demonstram minha capacidade de extrair dados da web com **Selenium** e de construir aplicações que conecta a um banco de dados **Supabase**.
-
-<br>
-
-### 📫 Vamos nos conectar!
-
-Sinta-se à vontade para entrar em contato. Estou sempre aberto a novas oportunidades, colaborações e um bom bate-papo sobre tecnologia.
-
-<p align="left">
-<a href="URL_DO_SEU_LINKEDIN_AQUI" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:SEU_EMAIL_AQUI" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zacarias-lino-ramos-filho-5203b61a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zaca793@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
