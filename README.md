@@ -67,7 +67,7 @@ Com uma sólida trajetória na área industrial e mecânica, hoje aplico a mesma
 ### 🌱 Educação & Aprendizado
 
 - **Formação Desenvolvedor Python** | OneBitCode (Em andamento)
-- **Certificado: Python I - Introdução ao Python** | [cite_start]OneBitCode (24/06/2025) [cite: 18]
+- **Certificado: Python I - Introdução ao Python** | OneBitCode (24/06/2025)
 
 <br>
 
