@@ -35,7 +35,21 @@
 
 ### 📊 Estatísticas do GitHub
 
+<!-- INÍCIO DO BLOCO DE ESTATÍSTICAS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lino167&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas de Zacarias" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lino167&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      height="165" 
+      src="https://github-readme-stats.vercel.app/api?username=lino167&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+      alt="Estatísticas do GitHub de Zacarias" 
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      height="165" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lino167&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" 
+      alt="Linguagens mais utilizadas" 
+    />
+  </a>
 </div>
+<!-- FIM DO BLOCO DE ESTATÍSTICAS -->
