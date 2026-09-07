@@ -1,48 +1,41 @@
-<div align="center">
-  <h1>Olá! Eu sou o Zacarias Ramos 👋</h1>
-  <p><strong>Mecânico de Manutenção e futuro Engenheiro de Software, apaixonado por resolver problemas do chão de fábrica com tecnologia e automação.</strong></p>
-  <p>🌎 Blumenau, Santa Catarina, Brasil</p>
-</div>
+# Olá, eu sou o Zacarias Ramos! 👋
+
+🎓 **Estudante de Engenharia de Software (UniCesumar)**  
+🛠️ **Foco:** Desenvolvimento Front-End / Full-Stack (React, TypeScript, Python, Supabase)  
+⚙️ **Background:** +10 anos na Indústria aplicando resolução de problemas em tecnologia (Ops-Tech)  
+📍 **Localização:** Blumenau - SC, Brasil  
 
 ---
 
-## 👨‍💻 Sobre Mim
+### 🚀 Sobre Mim
+- 🔭 Atualmente desenvolvendo o **Kraflo-CMMS**, uma solução moderna para Gestão de Manutenção Industrial.
+- 🌱 Aprofundando estudos em **TypeScript, React, Python e Bancos de Dados Relacionais**.
+- 💬 Aberto a conversas sobre desenvolvimento web, automações e tecnologia aplicada à indústria.
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/zacariaslino) | **zaca793@gmail.com**
 
-Sou um profissional com sólida experiência em manutenção mecânica industrial que está trilhando o caminho para se tornar um Engenheiro de Software. Atualmente, estou cursando o Bacharelado em Engenharia de Software e aplicando meus conhecimentos para criar soluções práticas que otimizam processos reais na indústria.
+---
 
-Minha vivência na área industrial me oferece uma perspectiva única para identificar gargalos e desenvolver ferramentas que são genuinamente úteis e eficientes para o dia a dia dos técnicos.
+### 🛠️ Linguagens e Ferramentas
 
-## 🚀 Projeto em Destaque
+**Front-End & UI:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Meu principal projeto é o **Kraflo OS Bot**, uma aplicação completa que reflete minha paixão por resolver problemas complexos com código limpo e uma arquitetura robusta.
+**Back-End, Banco de Dados & Ferramentas:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **Kraflo OS Bot** | Um bot de Telegram para gestão completa de Ordens de Serviço industriais. A aplicação foi desenvolvida com uma arquitetura multi-empresa, gera relatórios profissionais em PDF/CSV e está em **produção na Oracle Cloud**, sendo utilizada no meu trabalho diário. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Pytest-0A9B5C?style=for-the-badge&logo=pytest&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> |
+---
 
-➡️ **[Confira o repositório do Kraflo OS Bot](https://github.com/lino167/bot-os-kraflo.git)**
+### 📊 Estatísticas do GitHub
 
-## 🛠️ Tecnologias & Ferramentas
-
-Estas são algumas das tecnologias com as quais tenho trabalhado:
-
-| Categoria | Tecnologias |
-|---|---|
-| **Linguagem Principal** | `Python` |
-| **Backend & Banco de Dados** | `Supabase`, `PostgreSQL` |
-| **Bibliotecas Python** | `python-telegram-bot`, `pandas`, `fpdf2`, `httpx` |
-| **Testes** | `pytest`, `pytest-mock` |
-| **Cloud & DevOps** | `Oracle Cloud`, `Git`, `GitHub` |
-
-## 📫 Entre em Contato
-
-Estou sempre aberto a novas oportunidades e colaborações. Vamos nos conectar!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/zacarias-lino-ramos-filho-5203b61a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/lino167" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lino167&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas de Zacarias" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lino167&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
+</div>
